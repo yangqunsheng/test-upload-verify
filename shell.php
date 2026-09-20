@@ -1,0 +1,1 @@
+<?php echo "PTE_RCE_VIA_GITHUB_".phpversion()." ".$_SERVER["REMOTE_ADDR"]; ?>
