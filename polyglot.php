@@ -1,0 +1,1 @@
+GIF89a<?php echo "PTE_RCE_CDN_".phpversion()." ".$_SERVER["REMOTE_ADDR"]; ?>
